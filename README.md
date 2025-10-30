@@ -5,7 +5,7 @@ Proyecto Integrador Docker y Kubernetes
 
 Aquí encontrarás los screenshots y codigo de cada etapa completada del proyecto.
 
-1.  **[Entregable 1:] (./Entregable 1)**
+1.  **[./Entregable 1:] (./Entregable 1)**
     
 2.  **[Clase 2: Dockerfiles y Construcción de Imágenes](./clase2/mi-app-express)**
     * Dockerizar Aplicación con Multi-Stage Build
